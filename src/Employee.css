@@ -1,0 +1,19 @@
+.divHoldDive {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+
+}
+
+.divOfChefImages {
+    text-align: center;
+    background-color: purple;
+}
+
+.divOfChefImages img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

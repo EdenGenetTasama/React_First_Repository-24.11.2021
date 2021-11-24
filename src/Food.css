@@ -1,0 +1,23 @@
+
+
+.divHoldDive {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    
+    
+}
+
+.divOfFood img {
+    width: 300px;
+    height: 300px;
+}
+
+.divOfFood{
+    background-color: grey;
+    width: 30%;
+   justify-content: center;
+   /* text-align: center; */
+    padding: 2%;
+}
